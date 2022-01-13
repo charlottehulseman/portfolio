@@ -13,7 +13,7 @@ const About = () => {
             </Fade>
             <span>
              View & Download Resume {" "}
-            <a href="https://www.chetanverma.com/">Here.</a>
+            <a href="https://charlottehulseman.github.io/portfolio/">Here.</a>
           </span>
             <p>
               {data.aboutParaOne}

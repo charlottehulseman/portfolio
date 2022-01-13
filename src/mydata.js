@@ -9,8 +9,6 @@ import pythonIcon from "./images/python.svg"
 // Social Icon
 import githubIcon from "./images/github.svg"
 import linkedinIcon from "./images/linkedinicon.png"
-import dribbbleIcon from "./images/dribbble.svg"
-import instagramIcon from "./images/instagram.svg"
 
 // About image
 import proPic from "./images/profilepic.jpg"
