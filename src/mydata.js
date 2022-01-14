@@ -36,7 +36,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Hello, I'm a software engineer specializing in full stack development. Previously, I was a freelance UX Designer alongside my undergraduate studies at Fordham University. I live in New York City and am seeking a remote or on-site engineering role to showcase and and strenghthen my skills.",
+    "Hello, I'm a software developer specializing in full stack development. Previously, I was a freelance UX Designer alongside my undergraduate studies at Fordham University. I live in New York City and am seeking a remote or on-site engineering role to showcase and and strenghthen my skills.",
 
   //Contact Email
   contactEmail: "cchulseman@gmail.com",
@@ -65,7 +65,7 @@ export default {
       repourl: "https://github.com/charlottehulseman",
     },
     {
-      title: "Animal Crossing New Horizons Dashboard", //Project Title
+      title: "Animal Crossing: New Horizons Dashboard", //Project Title
       para:
         "This Website was built to help end-users keep track of their villages and manage their collectibles of all the different parts of Animal Crossing: New Horizons in one central hub.",
 
@@ -101,8 +101,8 @@ export default {
 
       imageSrc: notetakerpic,
     
-      url: "https://charlottehulseman.github.io/code-quiz/highscores.html",
-      repourl: "https://github.com/charlottehulseman/code-quiz",
+      url: "https://intense-harbor-73900.herokuapp.com/",
+      repourl: "https://github.com/charlottehulseman/note-taker",
     },
   ],
 
