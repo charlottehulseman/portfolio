@@ -25,7 +25,7 @@ import weatherpic from "./images/weatherdash.jpg"
 export default {
 
   //   Header Details ---------------------
-  name: "Software Engineer",
+  name: "Software Developer",
   headerTagline: [
     //Line 1 For Header
     "Charlotte Hulseman",
@@ -36,7 +36,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Hello, I'm a software developer specializing in full stack development. Previously, I was a freelance UX Designer alongside my undergraduate studies at Fordham University. I live in New York City and am seeking a remote or on-site engineering role to showcase and and strenghthen my skills.",
+    "Hello, I'm a full stack web developer with a focus on back-end functionality and database management. Previously, I was a freelance UX designer and project manager alongside my undergraduate studies at Fordham University. I live in New York City and am seeking a remote or on-site engineering role to showcase and and strenghthen my skills.",
 
   //Contact Email
   contactEmail: "cchulseman@gmail.com",
