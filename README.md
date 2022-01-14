@@ -1,5 +1,9 @@
 # **My Portfolio**
 
+## **View**
+[View Repository](https://github.com/charlottehulseman/portfolio)
+[View Deployed Site](https://charlottehulseman.netlify.app)
+
 ## **Description**
 Simple scroll-through portfolio showcasing some of my projects so far as a newly-trained Software Developer.
 
@@ -11,3 +15,6 @@ Simple scroll-through portfolio showcasing some of my projects so far as a newly
 ## **Tools Used**
 - React JS
 - Gatsby JS
+
+## **Contact**
+Feel free to contact me at cchulseman@gmail.com for any questions.
