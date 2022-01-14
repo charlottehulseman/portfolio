@@ -2,6 +2,7 @@
 
 ## **View**
 [View Repository](https://github.com/charlottehulseman/portfolio)
+
 [View Deployed Site](https://charlottehulseman.netlify.app)
 
 ## **Description**
