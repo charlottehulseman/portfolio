@@ -13,6 +13,14 @@ import linkedinIcon from "./images/linkedinicon.png"
 // About image
 import proPic from "./images/profilepic.jpg"
 
+// Project thubnails
+import petitpic from "./images/petit.jpg"
+import acnhpic from "./images/acnh.jpg"
+import budgetpic from "./images/budgettracker.jpg"
+import notetakerpic from "./images/notetaker.jpg"
+import twickpic from "./images/twick.jpg"
+import weatherpic from "./images/weatherdash.jpg"
+
 
 export default {
 
@@ -41,8 +49,7 @@ export default {
       title: "PetIt", //Project Title
       para:
         "Full Stack social networking app allowing users to inform each other on the pet-friendliness of employers and establishments using MySQL, React, Node, and Express.", 
-      imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: petitpic,
     
       url: "https://petit-petfriendly.herokuapp.com",
       repourl: "https://github.com/charlottehulseman/petit-frontend",
@@ -52,50 +59,50 @@ export default {
       para:
         "Twick is a visual dashboard displaying Tweets mentioning a pre-selected stock ticker in real-time, meaning it is updated everytime a new tweet is posted. The purpose is to be able to see what everyday people have to say about the stock market rather than a news source, in an organized and direct fashion.",
 
-      imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: twickpic,
     
-      url: "http://chetanverma.com/",
+      url: "https://github.com/charlottehulseman",
+      repourl: "https://github.com/charlottehulseman",
     },
     {
       title: "Animal Crossing New Horizons Dashboard", //Project Title
       para:
         "This Website was built to help end-users keep track of their villages and manage their collectibles of all the different parts of Animal Crossing: New Horizons in one central hub.",
 
-      imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: acnhpic,
     
-      url: "https://github.com/charlottehulseman/project1-animal-crossing",
+      url: "https://charlottehulseman.github.io/project1-animal-crossing/",
+      repourl: "https://github.com/charlottehulseman/project1-animal-crossing",
     },
     {
       title: "Weather Dashboard", //Project Title
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+        "Weather dashboard that displays the current weather and weekly forecast of any searched city. Search history is recorded and can be easily navigated to. This dashboard uses the Open Weather Map API.",
 
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: weatherpic,
     
-      url: "http://chetanverma.com/",
+      url: "https://charlottehulseman.github.io/weather-dashboard/",
+      repourl: "https://github.com/charlottehulseman/weather-dashboard",
     },
     {
       title: "Budget Tracker", //Project Title
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+        "This is a simple budget tracker for jet-setters featuring a trend graph and easy functionality for adding transactions. This web applicaiton is downloadable as a desktop application that is available both online and offline network.",
 
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: budgetpic,
     
-      url: "http://chetanverma.com/",
+      url: "https://murmuring-forest-57550.herokuapp.com/",
+      repourl: "https://github.com/charlottehulseman/budget-tracker",
     },
     {
-      title: "Team Profile Generator", //Project Title
+      title: "Note Taker", //Project Title
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+        "This note taker app uses Expressjs to save notes with titles and descriptions, and delete saved notes as well.",
 
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: notetakerpic,
     
-      url: "http://chetanverma.com/",
+      url: "https://charlottehulseman.github.io/code-quiz/highscores.html",
+      repourl: "https://github.com/charlottehulseman/code-quiz",
     },
   ],
 
@@ -120,7 +127,7 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Proficiency with HTML, including DOM, XML and Markdown, as well as with other operational skills such as Git, GitHub, pseudocoding and creating ERD's.",
+        "Proficiency with HTML, including DOM, XML and Markdown, as well as with other operational skills such as Git, GitHub, deployment, pseudocoding and creating ERD's.",
     },
     {
       img: cssIcon,
@@ -130,7 +137,7 @@ export default {
     {
       img: jsIcon,
       para:
-        "Skills and tools include advanced JavaScript, React, JQuery, JEST for testing, MERN Stack, Babel, State, GraphQL, Object-Oriented Programming, Object-relational Mapping, Redux, PWA's, Handlebars, Cloudinary, and the use of server-side, web and third-party API's.",
+        "Skills and tools include advanced JavaScript, React, JQuery, JEST for testing, MERN Stack, State, GraphQL, Object-Oriented Programming, Object-relational Mapping, Redux, PWA's, Handlebars, Cloudinary, and the use of server-side, web and third-party API's.",
     },
     {
       img: databaseIcon,
