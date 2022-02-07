@@ -25,7 +25,7 @@ import weatherpic from "./images/weatherdash.jpg"
 export default {
 
   //   Header Details ---------------------
-  name: "Software Developer",
+  name: "Software Engineer",
   headerTagline: [
     //Line 1 For Header
     "Charlotte Hulseman",
@@ -36,7 +36,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Hello, I'm a full stack web developer with a focus on back-end functionality and database management. Previously, I was a freelance UX designer and project manager alongside my undergraduate studies at Fordham University. I live in New York City and am seeking a remote or on-site engineering role to showcase and and strenghthen my skills.",
+    "I'm a full stack software engineer with a focus in back-end functionality and database management. Previously, I was a freelance UX designer alongside my undergraduate studies at Fordham University, then pivoted to engineering by completing the University of Washington's coding bootcamp. I live in New York City and am seeking a remote or on-site role to contribute to an impactful product and team.",
 
   //Contact Email
   contactEmail: "cchulseman@gmail.com",
@@ -110,9 +110,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I recently graduated from the University of Washington full stack development bootcamp in partnership with Trilogy Education Services. In July 2021, I graduated from Fordham University with a B.A. in Digital Design and New Media. Alongside my college courses, I was a freelance UX Designer and received a certificate from General Assembly's User Experience Immersive bootcamp. The two computer science classes I took in college is what introduced me to the field.",
+    "I recently graduated from a full stack development bootcamp at the University of Washingotn. In July 2021, I graduated from Fordham University with a B.A. in Digital Design and New Media. Alongside my college courses, I was a freelance UX Designer & Researcher and received a certificate from General Assembly's User Experience Immersive bootcamp. The three computer science courses I took in college is what introduced me to the field.",
   aboutParaTwo:
-    "Throughout most of college, I failed to consider computer science as a possible path for me because I believed I was a creative-brained person, and therefore would never be capable of engineering. When I tried it, I quickly realized that coding requires more of an innovative mind than anything I have ever experienced. I fell in love with the challenges it created for me, the gratification I felt when solving a problem, and training my brain to think like a computer. I didn't grow up taking electronics apart or completing mathematical equations in my free time, but I am a passionate learner dedicated to excelling my skills and digging deeper into the field.",
+    "Throughout college, I established myself as a creative-brained individual and problem-solver, which led me to pursue a major in digital design. When I began experimenting with programming by attending hack-a-thons and a global game jam, I realized that it requires more of an innovative mind than anything I have ever experienced. I fell in love with the challenges it created for me, the gratification I felt when solving a problem, and training my brain to think more like a computer. I didn't grow up taking electronics apart or completing mathematical equations in my free time, but I am a passionate learner dedicated to excelling my skills and digging deeper into the field of computer science.",
   aboutParaThree:
     "As a worker, I am team-oriented, a strong communicator, an assertive leader and inspired by my enviornment. I work best when I adapt to a team's dynamic by gaining a sense of how my other colleagues operate, and when I am in a respectful space that welcomes brainstorming and collaboration. I also enjoy putting my brain to the test and teaching myself new tasks, and being able to see a higher up as a mentor. In my free time, I love to read and take walks around Manhattan with my dog, Panda. When I can, I like to ski, scuba dive, hike and travel. I also nerd out over Nintendo! Fun fact — you'll never beat me in a game of Mario Kart.",
   aboutImage:
@@ -172,7 +172,7 @@ export default {
     { img: githubIcon, url: "https://github.com/charlottehulseman" },
     {
       img: linkedinIcon,
-      url: "https://www.codepen.com/",
+      url: "https://www.linkedin.com/in/charlotte-hulseman",
     },
   ],
 }
