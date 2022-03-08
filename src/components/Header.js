@@ -43,7 +43,13 @@ const Header = () => {
               }`}
               className="primary-btn"
             >
-              CONNECT WITH ME
+              Connect With Me
+            </a>
+            <a
+              href="https://github.com/charlottehulseman/portfolio"
+              className="primary-btn"
+            >
+              Portfolio Repo
             </a>
           </Fade>
         </div>
