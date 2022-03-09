@@ -2,7 +2,7 @@ import React from "react"
 import scrollTo from "gatsby-plugin-smoothscroll"
 
 const handleClick = () => {
-  window.open("https://drive.google.com/file/d/19Qfr9EHFLWS8YcAu2iiqOUZjRHJCKeMs/view?usp=sharing");
+  window.open("https://drive.google.com/file/d/1suzjZt-xeDsRzpDd88udU1OnmQTTSJSn/view?usp=sharing");
 };
 
 const Navbar = () => {

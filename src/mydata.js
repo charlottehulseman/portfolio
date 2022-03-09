@@ -25,7 +25,7 @@ import weatherpic from "./images/weatherdash.jpg"
 export default {
 
   //   Header Details ---------------------
-  name: "Software Development Engineer",
+  name: "Software  Engineer",
   headerTagline: [
     //Line 1 For Header
     "Charlotte Hulseman",
@@ -36,7 +36,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I'm a software development engineer with a focus in full stack engineering and back-end functionality. Previously, I was a freelance UX designer alongside my undergraduate studies at Fordham University, then pivoted to engineering by completing the University of Washington's coding bootcamp. I live in New York City and am seeking a remote or on-site role to contribute to an impactful product and team.",
+    "Hey there! Welcome to my portfolio. My name is Charlotte and I'm a UX designer-turned software engineer. I studied design at Fordham University and freelanced as a designer and researcher before enrolling in the University of Washington's coding boot camp. I'm currently most proficient in JavaScript and Node.js, CSS, HTML, React.js, Express.js, MySQL, MongoDB, Handlebars and Sequelize.",
 
   //Contact Email
   contactEmail: "cchulseman@gmail.com",
@@ -110,7 +110,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I recently graduated from a full stack development bootcamp at the University of Washingotn. In July 2021, I graduated from Fordham University with a B.A. in Digital Design and New Media. Alongside my college courses, I was a freelance UX Designer & Researcher and received a certificate from General Assembly's User Experience Immersive bootcamp. The three computer science courses I took in college is what introduced me to the field.",
+    "As mentioned above, I recently graduated from a full stack development bootcamp at the University of Washingotn. In July 2021, I graduated from Fordham University with a B.A. in Digital Design and New Media. Alongside my college courses, I was a freelance UX Designer & Researcher and received a certificate from General Assembly's User Experience Immersive bootcamp. The computer science courses I took in college is what introduced me to the field.",
   aboutParaTwo:
     "Throughout college, I established myself as a creative-brained individual and problem-solver, which led me to pursue a major in digital design. When I began experimenting with programming by attending hack-a-thons and a global game jam, I realized that it requires more of an innovative mind than anything I have ever experienced. I fell in love with the challenges it created for me, the gratification I felt when solving a problem, and training my brain to think more like a computer. I am a passionate learner dedicated to excelling my skills and digging deeper into the field of computer science.",
   aboutParaThree:
@@ -127,32 +127,32 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Proficiency with HTML, including DOM, XML and Markdown, as well as with other operational skills such as Git, GitHub, deployment, pseudocoding and creating ERD's.",
+        "HTML, including DOM, XML, as well as with other operational tools such as Git, GitHub, Agile Methodologies, ERD Development",
     },
     {
       img: cssIcon,
       para:
-        "Advanced CSS including media queries, animations, advanced selectors and CSS frameworks such as Bootstrap, Material UI and UIKit.",
+        "CSS, Bootstrap, MaterialUI, UIKit, SCSS, Media Queries, Animations, Flex Boxes, Grids, Responsive Design",
     },
     {
       img: jsIcon,
       para:
-        "Skills and tools include advanced JavaScript, React, JQuery, JEST for testing, MERN Stack, State, GraphQL, Object-Oriented Programming, Object-relational Mapping, Redux, PWA's, Handlebars, Cloudinary, and the use of server-side, web and third-party API's.",
+        "OOP, MVC/ORM, JavaScript, Node.js, React.js, JQuery, JEST Testing, MERN Stack, State, GraphQL, Redux, Progressive Web Applications, Handlebars, Express.js, Angular.js, Gatsby.js, Vue.js, Heroku, Netlify",
     },
     {
       img: databaseIcon,
       para:
-        "Proficient with MySQL, NoSQL, MongoDB, including the generation, manipulation and integration of a database as well as database modeling. Tools include MySQLWorkbench and Insomnia.",
+        "Database Management and Development, API Integration, MySQL, Sequelize, MongoDB, Mongoose, MySQLWorkbench, Insomnia, REST API's, Third Party API's, Server-side API's, Cloudinary",
     },
     {
       img: designIcon,
       para:
-        "Experience with the UX Design process such as user research, which includes affinity mapping and generating use cases and personas; information architecture such as site maps user flows and journey maps; wireframing, prototyping and usability testing; and visual design. Tools include Adobe CC, Figma, InVision, Unity.",
+        "User Experience Design, User Research, Information Architecture, Visual Design, Prototyping, Wireframing, Usability Testing, A/B Testing, Heuristic Analysis, Site Maps, Personas, User Stories, Journey Maps, Figma, InVision, Adobe Suite",
     },
     {
       img: pythonIcon,
       para:
-        "Experience with Python and creating a website with Flask, and data manipulation and analysis libraries and such as Pandas, NumPy as well as Docker and AWS.",
+        "Python, Flask, Pandas, Docker, AWS",
     },
   ],
 
