@@ -20,7 +20,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink, projectRepo }) => {
           rel="noopener noreferrer"
           className="btn"
         >
-          Live Site
+          View Project
         </a>
         <p></p>
         <a
@@ -29,7 +29,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink, projectRepo }) => {
           rel="noopener noreferrer"
           className="btn"
         >
-          Repository
+          Repo | Info 
         </a>
       </div>
     </div>

@@ -13,7 +13,7 @@ import linkedinIcon from "./images/linkedinicon.png"
 // About image
 import proPic from "./images/profilepic.jpg"
 
-// Project thubnails
+// Work thumbnails
 import petitpic from "./images/petit.jpg"
 import acnhpic from "./images/acnh.jpg"
 import readme from "./images/readme.jpg"
@@ -21,6 +21,11 @@ import notetakerpic from "./images/notetaker.jpg"
 import twickpic from "./images/twick.jpg"
 import weatherpic from "./images/weatherdash.jpg"
 
+
+// Design thumbnails
+import venmo from "./images/venmo2.jpg"
+import soliv from "./images/yoga.jpg"
+import rise from "./images/rise1.jpg"
 
 export default {
 
@@ -67,7 +72,7 @@ export default {
     {
       title: "Animal Crossing: New Horizons Dashboard", //Project Title
       para:
-        "This Website was built to help end-users keep track of their villages and manage their collectibles of all the different parts of Animal Crossing: New Horizons in one central hub. Uses local storage to keep track of your gaming progress, and public ACNH API's.",
+        "Website to help users keep track of their villages and manage their collectibles of all the different parts of Animal Crossing: New Horizons in one central hub. Uses local storage to keep track of your gaming progress, and public ACNH API's.",
 
       imageSrc: acnhpic,
     
@@ -106,6 +111,40 @@ export default {
     },
   ],
 
+
+
+  // Design Section ------------------------
+  projects2: [
+    {
+      title2: "Venmo", //Project Title
+      para2:
+        "Won first place in the Venmo Campus Challenge hosted by Venmo and the Fordham Fintech Society to design a new feature to attract a larger student base. I designed an integrated campus event feature that Venmo awarded $1000 and an invitation to present at HQ.", 
+      imageSrc2: venmo,
+    
+      url: "https://drive.google.com/file/d/1gboimnwusc-SojunO4m9w_SZYlL3PAII/view?usp=sharing",
+      repourl: "https://fordhamfintech.org/venmo-challenge",
+    },
+    {
+      title2: "Soliv", //Project Title
+      para2:
+        "Class project that I completed during the first wave of COVID-19 quarantine in 2020. I designed an app that hosted virtual classes for every activity from workouts to painting and cooking. I received an A on the project.",
+
+      imageSrc2: soliv,
+    
+      url: "https://drive.google.com/file/d/1AHvuCjatreEQrs57h3UZT3FVyqb_JOl_/view?usp=sharing",
+      repourl: "https://drive.google.com/file/d/1rE015umEdAxJXVc9vTrfssN8NMssJ709/view?usp=sharing",
+    },
+    {
+      title2: "Rise", //Project Title
+      para2:
+        "For a Mobile UX Design course project, I designed a financial education app for students after spending much of quarantine teaching myself different investment techniques and strategies. The goal for the design is to make financial resources more accessible and guided to students.",
+
+      imageSrc2: rise,
+    
+      url: "https://www.figma.com/proto/BIYbpcd80L6RtSPhkCWWln/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2",
+      repourl: "https://docs.google.com/presentation/d/1VJs5xwYBmfpTlrUNmwCYbFKy8Oj_Bt9i/edit?usp=sharing&ouid=114948482565395735245&rtpof=true&sd=true",
+    },
+  ],
   
 
   // About Secton --------------
@@ -127,7 +166,7 @@ export default {
     {
       img: htmlIcon,
       para:
-        "HTML, including DOM, XML, as well as with other operational tools such as Git, GitHub, Agile Methodologies, ERD Development",
+        "HTML, DOM, XML, as well as with other operational tools such as Git, GitHub, Agile Methodologies, ERD Development",
     },
     {
       img: cssIcon,
